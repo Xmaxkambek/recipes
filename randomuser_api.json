@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Maureen",
+                "last": "Reid"
+            },
+            "location": {
+                "street": {
+                    "number": 2868,
+                    "name": "Miller Ave"
+                },
+                "city": "San Bernardino",
+                "state": "Virginia",
+                "country": "United States",
+                "postcode": 37886,
+                "coordinates": {
+                    "latitude": "87.1044",
+                    "longitude": "122.5447"
+                },
+                "timezone": {
+                    "offset": "+5:30",
+                    "description": "Bombay, Calcutta, Madras, New Delhi"
+                }
+            },
+            "email": "maureen.reid@example.com",
+            "login": {
+                "uuid": "abbb48ce-4d0a-40b0-810b-13f19b17f918",
+                "username": "sadbutterfly319",
+                "password": "2345",
+                "salt": "1aNbUbIe",
+                "md5": "34ce064c1df9ca20cf14992a92b36a15",
+                "sha1": "fd388b4fd2ef5834654be020628873b1fcad4e5c",
+                "sha256": "590f1fcca4325bf67b442217e6e94585213e912cfc502b3552a4625cb2e2829f"
+            },
+            "dob": {
+                "date": "2000-04-14T07:05:43.499Z",
+                "age": 22
+            },
+            "registered": {
+                "date": "2004-05-15T09:09:46.997Z",
+                "age": 18
+            },
+            "phone": "(714) 951-5847",
+            "cell": "(607) 596-5307",
+            "id": {
+                "name": "SSN",
+                "value": "689-60-6875"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/59.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+            },
+            "nat": "US"
+        }
+    ],
+    "info": {
+        "seed": "8c79866fcf8482e8",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}

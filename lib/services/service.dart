@@ -11,6 +11,10 @@ Future<User> getData() async {
     firstName: datafromJson['results'][0]['name']['first'],
     lastName: datafromJson['results'][0]['name']['last'],
     email: datafromJson['results'][0]['email'],
+    picture: datafromJson['results'][0]['picture']['large'],
+    phone: datafromJson['results'][0]['cell'],
+    age: datafromJson['results'][0]['dob']['age'],
+
   );
   return user;
 }
